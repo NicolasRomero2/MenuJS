@@ -12,7 +12,7 @@ const questions = {
         },
         {
             value: '2',
-            name: '2. Listar tareas'
+            name: '2. Listar las tareas'
         },
         {
             value: '3',
